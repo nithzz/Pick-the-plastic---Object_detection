@@ -53,7 +53,8 @@ _Below is an example of how you can instruct your audience on installing and set
     ```sh
     !zip -r /content/yolov5/train_data.zip /content/yolov5/train_data
     !unzip -q /content/yolov5/train_data.zip -d ../
-   ```
+    ```
+   
 3.  Replace the custom.yaml file with the coco128.yaml 
 4.  Exexute the python script in google colab and place the output of runs folder into the raspberry pi
 
