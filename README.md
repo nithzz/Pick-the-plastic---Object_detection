@@ -56,4 +56,3 @@ _Below is an example of how you can instruct your audience on installing and set
 3.  Replace the custom.yaml file with the coco128.yaml 
 4.  Exexute the python script in google colab and place the output of runs folder into the raspberry pi
 
-<p align="right">(<a href="#top">back to top</a>)</p>
