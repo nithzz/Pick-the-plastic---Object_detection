@@ -7,7 +7,7 @@ The supervised plastic detection model uses customized Yolov5 object detection m
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
+<p>DETECTION RESULT : <a href="https://liveplasticdetect.netlify.app/test.html"/></p>
 
 ### Built With
 
